@@ -5,6 +5,6 @@
 
 <p>After installation I ran the following the following commands:</p>
 
-1: Applied updates - "sudo apt update && sudo apt full-upgrade"
-2: updated rpi eeprom - "sudo rpi-eeprom-update" "sudo rpi-eeprom-update -a"
-3: reboot device "sudo reboot"
+1. Applied updates - "sudo apt update && sudo apt full-upgrade"
+2. updated rpi eeprom - "sudo rpi-eeprom-update" "sudo rpi-eeprom-update -a"
+3. reboot device "sudo reboot"
